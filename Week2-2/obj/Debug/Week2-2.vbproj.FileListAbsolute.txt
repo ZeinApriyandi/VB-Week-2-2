@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Week2-2\Week2-2\bin\Debug\Week2-2.exe.config
+C:\Users\User\source\repos\Week2-2\Week2-2\bin\Debug\Week2-2.exe
+C:\Users\User\source\repos\Week2-2\Week2-2\bin\Debug\Week2-2.pdb
+C:\Users\User\source\repos\Week2-2\Week2-2\bin\Debug\Week2-2.xml
+C:\Users\User\source\repos\Week2-2\Week2-2\obj\Debug\Week2_2.Form1.resources
+C:\Users\User\source\repos\Week2-2\Week2-2\obj\Debug\Week2_2.Resources.resources
+C:\Users\User\source\repos\Week2-2\Week2-2\obj\Debug\Week2-2.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Week2-2\Week2-2\obj\Debug\Week2-2.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week2-2\Week2-2\obj\Debug\Week2-2.exe
+C:\Users\User\source\repos\Week2-2\Week2-2\obj\Debug\Week2-2.xml
+C:\Users\User\source\repos\Week2-2\Week2-2\obj\Debug\Week2-2.pdb
